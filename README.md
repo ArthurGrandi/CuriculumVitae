@@ -1,3 +1,3 @@
-# CuriculumVitae
+# CuriculumViate
 
-https://arthurgrandi.github.io/CuriculumVitae/
+https://arthurgrandi.github.io/CuriculumViate/
